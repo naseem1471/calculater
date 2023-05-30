@@ -11,7 +11,7 @@ h1 {
 
 }
 #calculator {
-	width: 230px;
+	width: 286px;
 	height:410px;
 	margin: 100px auto;
 	padding: 20px 20px 9px;
@@ -24,7 +24,7 @@ h1 {
 
 .output .screen {
 	height: 70px;
-	width: 210px;
+	width: 275px;
 	padding:0px 8px ;
 	overflow :visible;
 	background: #c3c2ab;
